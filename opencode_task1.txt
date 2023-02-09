@@ -17,6 +17,6 @@ git push: It is used to upload local repository content to a remote repository. 
 git status: It tell the current status of git like how many files are in staging area, whether the file is committed or not, etc.
 
 (3)
-Step1 : Click on new pull request
-Step 2: Click on create pull request
-Step 3: 
+Step1 : Click on compare and pull request
+Step 2: Add title to pull request and if you want, you can add description to the pull request
+Step 3: Click on Create Pull Request
