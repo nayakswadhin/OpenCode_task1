@@ -1,0 +1,22 @@
+(1)
+S.No.	Git	                                          GitHub
+1.	Git is a software.	                       GitHub is a service.
+2.	Git is a command-line tool	               GitHub is a graphical user interface
+3.	Git is installed locally on the system	   GitHub is hosted on the web
+4.	Git is maintained by linux.	               GitHub is maintained by Microsoft.
+5.  Git is focused on version control 
+    and code sharing.                          GitHub is focused on centralized source code hosting.
+6.  Git is a version control system to         GitHub is a hosting service for Git repositories.
+    manage source code history.     
+
+(2)
+git init : It creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
+git commit :It captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to.
+git add : It adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit.
+git push: It is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.
+git status: It tell the current status of git like how many files are in staging area, whether the file is committed or not, etc.
+
+(3)
+Step1 : Click on new pull request
+Step 2: Click on create pull request
+Step 3: 
